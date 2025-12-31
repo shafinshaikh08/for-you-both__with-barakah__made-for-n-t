@@ -26,7 +26,7 @@ const CoverPage = () => {
         {/* Subtitle */}
         <div className="animate-fade-in-up-delayed-2">
           <p className="text-muted-foreground text-base md:text-lg">
-            A letter, from someone who loves you both.
+            A letter, from someone who adores you both.
           </p>
         </div>
 

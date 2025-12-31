@@ -28,7 +28,7 @@ const ClosingPage = () => {
         {/* Footer */}
         <div className="pt-12 animate-fade-in-up-delayed-3">
           <p className="text-muted-foreground text-sm">
-            Made with love by Shafin 🤍
+            Made with love, by Shafin 🤍
           </p>
         </div>
       </div>

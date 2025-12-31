@@ -10,6 +10,7 @@ export default defineConfig(({ mode }) => ({
     port: 8080,
   },
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
+  base: "/for-you-both__with-barakah__made-for-n-t/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
